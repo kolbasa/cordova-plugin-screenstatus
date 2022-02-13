@@ -24,7 +24,7 @@ Works even if the app is not in the foreground.
 
 ```js
 ScreenStatus
-    .subscribe(function(isScreenOn) {
+    .subscribe(function(turnedOn) {
         // true, false
     })
     .then(function () {
