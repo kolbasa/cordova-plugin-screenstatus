@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-screenstatus",
+  "version": "1.0.0",
+  "description": "Cordova plugin to monitor status changes of the screen.",
+  "cordova": {
+    "id": "cordova-plugin-screenstatus",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "android",
+    "screen",
+    "status",
+    "listener",
+    "power",
+    "on",
+    "off"
+  ],
+  "author": "Michael Jedich",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolbasa/cordova-plugin-screenstatus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kolbasa/cordova-plugin-screenstatus/issues"
+  },
+  "homepage": "https://github.com/kolbasa/cordova-plugin-screenstatus"
+}
